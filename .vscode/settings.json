@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.currentSetup": "D:\\Espressif\\frameworks\\esp-idf-v5.1.6",
+    "idf.customExtraVars": {
+        "IDF_PATH": "D:\\Espressif\\frameworks\\esp-idf-v5.1.6",
+        "IDF_TOOLS_PATH": "D:\\Espressif",
+        "IDF_PYTHON_ENV_PATH": "D:\\Espressif\\python_env\\idf5.1_py3.11_env",
+        "IDF_TARGET": "esp32c3"
+    },
+    "idf.flashType": "UART",
+    "idf.flashBaudRate": "115200",
+    "python.defaultInterpreterPath": "D:\\Espressif\\python_env\\idf5.1_py3.11_env\\Scripts\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "idf.port": "COM4"
+}

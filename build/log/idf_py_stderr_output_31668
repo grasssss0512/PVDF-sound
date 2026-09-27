@@ -1,0 +1,289 @@
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:168 (add_library):
+  The target name "___idf_ESP-IDF Path" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:256 (__component_add)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:377 (idf_build_component)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:413 (__project_component_dir)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:490 (__project_init)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:19 (set_property):
+  set_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:185 (__component_set_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:256 (__component_add)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:377 (idf_build_component)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:413 (__project_component_dir)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:490 (__project_init)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:23 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:185 (__component_set_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:256 (__component_add)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:377 (idf_build_component)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:413 (__project_component_dir)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:490 (__project_init)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:436 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:490 (__project_init)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:127 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:129 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:213 (__component_write_properties)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:19 (set_property):
+  set_property could not find TARGET ___idf_ESP-IDF.  Perhaps it has not yet
+  been created.
+Call Stack (most recent call first):
+  build/component_requires.temp.cmake:310 (__component_set_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:255 (include)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF.  Perhaps it has not yet
+  been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:23 (__component_get_property)
+  build/component_requires.temp.cmake:310 (__component_set_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:255 (include)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/build.cmake:582 (__component_get_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:197 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:198 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:199 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:200 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:201 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:202 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:203 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:204 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:205 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:206 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/component.cmake:5 (get_property):
+  get_property could not find TARGET ___idf_ESP-IDF Path.  Perhaps it has not
+  yet been created.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:207 (__component_get_property)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:311 (__all_component_info)
+  D:/Espressif/frameworks/esp-idf-v5.1.6/tools/cmake/project.cmake:782 (__project_info)
+  CMakeLists.txt:6 (project)
+
+

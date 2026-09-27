@@ -1,0 +1,5 @@
+MODE_PPG label= 陷波@50.00Hz(Q=20) + 0.5-15Hz 带通
+PPG bp= 0.5 15.0 checkbox= 0.5-15Hz 带通
+PPG: 1.1Hz=360663 0.2Hz=0 300Hz=424
+ECG: 1.1Hz=150 300Hz=63985
+DONE

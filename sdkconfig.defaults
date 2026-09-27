@@ -1,0 +1,2 @@
+# Target chip: ESP32-C3 (使用内置 ADC1 采集 ECG/PCG 模拟信号)
+CONFIG_IDF_TARGET="esp32c3"
